@@ -1,0 +1,6 @@
+@BoxOffice___LotV_HostAddress = http://localhost:5118
+
+GET {{BoxOffice___LotV_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
